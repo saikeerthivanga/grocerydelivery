@@ -18,7 +18,9 @@
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
-
+.form-group {
+    margin-bottom: 20px; /* Add spacing between form groups */
+}
 h2 {
     text-align: center;
     margin-bottom: 20px;
@@ -32,6 +34,7 @@ label {
     margin-bottom: 10px;
     font-weight: bold;
 }
+
 
 input[type="text"],
 input[type="email"],
